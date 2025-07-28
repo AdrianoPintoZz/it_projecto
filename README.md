@@ -1,3 +1,8 @@
+SQL Database is in src folder
+
+To connect you need to edit de db.js file in BackEnd/models/db.js
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
